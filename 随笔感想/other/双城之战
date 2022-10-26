@@ -20,23 +20,28 @@
 
 <script class="next-config" data-name="main" type="application/json">{"hostname":"powehi-l.github.io","root":"/","images":"/images","scheme":"Gemini","darkmode":false,"version":"8.13.1","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":{"enable":true,"style":"mac"},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":true,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"}}</script><script src="/js/config.js"></script>
 
-    <meta property="og:type" content="website">
-<meta property="og:title" content="pluto">
-<meta property="og:url" content="https://powehi-l.github.io/archives/index.html">
+    <meta name="description" content="刚看完双城之战，emmm还是会想写一点东西，虽然已经很晚了。 如果说，看完赛博朋克边缘行者我受到了强烈的震撼，情感上的巨大冲击，那对于双城之战，我更愿意说，它的影响更加深入内心。其实两部作品不应该进行对比，但是好像也有可以比较之处，突然想到，在两部动画中，我都看到了人物的变化，就像金克丝在最后说的，她以为vi在她变了之后对她不会变，但是最终这只是一种幻想。大卫在经历了前面的一切之后，变得成熟，变得">
+<meta property="og:type" content="article">
+<meta property="og:title" content="双城之战">
+<meta property="og:url" content="https://powehi-l.github.io/%E9%9A%8F%E7%AC%94%E6%84%9F%E6%83%B3/other/%E5%8F%8C%E5%9F%8E%E4%B9%8B%E6%88%98">
 <meta property="og:site_name" content="pluto">
+<meta property="og:description" content="刚看完双城之战，emmm还是会想写一点东西，虽然已经很晚了。 如果说，看完赛博朋克边缘行者我受到了强烈的震撼，情感上的巨大冲击，那对于双城之战，我更愿意说，它的影响更加深入内心。其实两部作品不应该进行对比，但是好像也有可以比较之处，突然想到，在两部动画中，我都看到了人物的变化，就像金克丝在最后说的，她以为vi在她变了之后对她不会变，但是最终这只是一种幻想。大卫在经历了前面的一切之后，变得成熟，变得">
 <meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2022-10-26T09:29:13.000Z">
+<meta property="article:modified_time" content="2022-10-26T09:30:51.560Z">
 <meta property="article:author" content="郭永军">
+<meta property="article:tag" content="杂谈">
 <meta name="twitter:card" content="summary">
 
 
-<link rel="canonical" href="https://powehi-l.github.io/archives/">
+<link rel="canonical" href="https://powehi-l.github.io/%E9%9A%8F%E7%AC%94%E6%84%9F%E6%83%B3/other/%E5%8F%8C%E5%9F%8E%E4%B9%8B%E6%88%98">
 
 
 
-<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":false,"lang":"zh-CN","comments":"","permalink":"","path":"archives/index.html","title":""}</script>
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://powehi-l.github.io/%E9%9A%8F%E7%AC%94%E6%84%9F%E6%83%B3/other/%E5%8F%8C%E5%9F%8E%E4%B9%8B%E6%88%98","path":"随笔感想/other/双城之战","title":"双城之战"}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
-<title>归档 | pluto</title>
+<title>双城之战 | pluto</title>
   
 
 
@@ -67,7 +72,7 @@
 
     <a href="/" class="brand" rel="start">
       <i class="logo-line"></i>
-      <h1 class="site-title">pluto</h1>
+      <p class="site-title">pluto</p>
       <i class="logo-line"></i>
     </a>
   </div>
@@ -166,129 +171,113 @@
 </noscript>
 
 
-    <div class="main-inner archive posts-collapse">
+    <div class="main-inner post posts-expand">
 
 
   
-  
-  
-  <div class="post-block">
-    <div class="post-content">
-      <div class="collection-title">
-        <span class="collection-header">嗯..! 目前共计 5 篇日志。 继续努力。</span>
-      </div>
 
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://powehi-l.github.io/%E9%9A%8F%E7%AC%94%E6%84%9F%E6%83%B3/other/%E5%8F%8C%E5%9F%8E%E4%B9%8B%E6%88%98">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="郭永军">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="pluto">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="双城之战 | pluto">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          双城之战
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
       
-    <div class="collection-year">
-      <span class="collection-header">2022</span>
+
+      <time title="创建时间：2022-10-26 17:29:13 / 修改时间：17:30:51" itemprop="dateCreated datePublished" datetime="2022-10-26T17:29:13+08:00">2022-10-26</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/%E9%9A%8F%E7%AC%94%E6%84%9F%E6%83%B3/" itemprop="url" rel="index"><span itemprop="name">随笔感想</span></a>
+        </span>
+    </span>
+
+  
+    <span class="post-meta-item" title="阅读次数" id="busuanzi_container_page_pv">
+      <span class="post-meta-item-icon">
+        <i class="far fa-eye"></i>
+      </span>
+      <span class="post-meta-item-text">阅读次数：</span>
+      <span id="busuanzi_value_page_pv"></span>
+    </span>
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+        <p>刚看完双城之战，emmm还是会想写一点东西，虽然已经很晚了。</p>
+<p>如果说，看完赛博朋克边缘行者我受到了强烈的震撼，情感上的巨大冲击，那对于双城之战，我更愿意说，它的影响更加深入内心。<br>其实两部作品不应该进行对比，但是好像也有可以比较之处，突然想到，在两部动画中，我都看到了人物的变化，就像金克丝在最后说的，她以为vi在她变了之后对她不会变，但是最终这只是一种幻想。大卫在经历了前面的一切之后，变得成熟，变得稳重，也变得沉重，那是一种需要背负起整个世界的沉重。我挺喜欢赛博朋克的结局的，没有让大卫完成反杀，否则就变成了那种千篇一律套路的东西了。就像我说的，我觉得丽贝卡就应该以那种方式结束她自己，那不是被另一个人结束的，那是她自己选择的方式。<br>说回双城之战，里面的每个人同样都有自己独特的性格，说到这里又不得不说一下，这些真正好的动画无一不是在人物的塑造方面各有特色。</p>
+<p>首先想说vi，她一直好像作为一个大姐姐，一边为了复仇，一边为了照顾powder，唯一一次对金克丝表示强烈的失望，是在其他人都被金克丝害死了之后。我觉得我能理解他，不管是另外两个伙伴，还是那个如父如兄的人，都可以说是他的精神支柱，却在他们即将可以逃生的时候被金克丝害死，我想不管是谁都会崩溃的吧。她也没有真正放弃金克丝，不过是情绪太过激动。另一方面，在出来以后，她确实也变了，并不是说她对powder的感情变了，而是她有了更多需要顾及的东西，他变得越来越像范德尔，这或许也是因为成长了吧。</p>
+<p>然后是希尔科，为什么先说他呢？因为他给我的感受最深，或许仅次于金克丝，也或许比金克丝更能给我深刻的感受。他以前经历过背叛，他想要改变底城，他不择手段，他嘲笑范德尔太过心慈手软，但是到头来他不是也如此吗！！这是给我印象超级深的一幕，在金克丝误杀他之后，他说他从来没想过交出他！曾几何时，范德尔又何尝不是这样做的，他甚至宁愿牺牲自己也要保全这几个孩子。<br>曾经希尔科嘲笑范德尔，但是他自己最终也成为了范德尔。当然他们还是不一样的，但是这让我看到了希尔科这个人的多面性，就像小偷家族里的人一样，一个人可以在是坏人的同时是一个好父亲，人这种生物，大多数时候都是灰色的，怎么可能黑白分明。</p>
+<p>另一个印象深刻的是维克多，我本来以为他已经黑化了，在经历不断地身体衰弱和打击之后，但是，在提到制造武器的时候，他是最坚决反对的，他在最后也意识到这条路已经不在正确了，他选择了自己的归宿。</p>
+<p>最后是金克丝了，说实话，我一边不喜欢她但是同时也能理解她。在她炸死两位同伴那次，她想帮忙的，却造成了这样的后果，范德尔也因为保护他们而死。在那种情况下被vi一指责，对于一个那么小的女孩子来说，太难承受了。<br>至于后来的过程中，她不断地在癫狂与理性之间来回跳转，但是却深陷于自己所构建的牢笼，渴望被爱反而让她更加缺爱，最终一发不可收拾。但她也是不疯魔不成活的类型，出去开头的时候，我挺欣赏她的。</p>
+
     </div>
 
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-      <div class="post-meta-container">
-        <time itemprop="dateCreated"
-              datetime="2022-10-26T17:29:13+08:00"
-              content="2022-10-26">
-          10-26
-        </time>
-      </div>
+    
+    
+    
 
-      <div class="post-title">
-          <a class="post-title-link" href="/%E9%9A%8F%E7%AC%94%E6%84%9F%E6%83%B3/other/%E5%8F%8C%E5%9F%8E%E4%B9%8B%E6%88%98" itemprop="url">
-            <span itemprop="name">双城之战</span>
-          </a>
-      </div>
+    <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/%E6%9D%82%E8%B0%88/" rel="tag"># 杂谈</a>
+          </div>
 
-      
-    </header>
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/%E4%B8%AD%E7%A7%91%E5%A4%A7%E8%AE%A1%E7%BD%91/computer_networks/Lec1%20%E6%A6%82%E8%AE%BA" rel="prev" title="计算机网络-Lecture 1：概论">
+                  <i class="fa fa-chevron-left"></i> 计算机网络-Lecture 1：概论
+                </a>
+            </div>
+            <div class="post-nav-item">
+            </div>
+          </div>
+    </footer>
   </article>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-      <div class="post-meta-container">
-        <time itemprop="dateCreated"
-              datetime="2022-10-17T00:05:07+08:00"
-              content="2022-10-17">
-          10-17
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/%E4%B8%AD%E7%A7%91%E5%A4%A7%E8%AE%A1%E7%BD%91/computer_networks/Lec1%20%E6%A6%82%E8%AE%BA" itemprop="url">
-            <span itemprop="name">计算机网络-Lecture 1：概论</span>
-          </a>
-      </div>
-
-      
-    </header>
-  </article>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-      <div class="post-meta-container">
-        <time itemprop="dateCreated"
-              datetime="2022-10-17T00:05:07+08:00"
-              content="2022-10-17">
-          10-17
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/%E4%B8%AD%E7%A7%91%E5%A4%A7%E8%AE%A1%E7%BD%91/computer_networks/Lec2%20%E5%BA%94%E7%94%A8%E5%B1%82" itemprop="url">
-            <span itemprop="name">计算机网络-Lecture 2：应用层</span>
-          </a>
-      </div>
-
-      
-    </header>
-  </article>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-      <div class="post-meta-container">
-        <time itemprop="dateCreated"
-              datetime="2022-10-15T18:14:45+08:00"
-              content="2022-10-15">
-          10-15
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/%E9%9A%8F%E7%AC%94%E6%84%9F%E6%83%B3/other/%E7%BD%97%E7%BF%94%E5%92%8C%E4%BD%99%E5%8D%8E" itemprop="url">
-            <span itemprop="name">余华和罗翔</span>
-          </a>
-      </div>
-
-      
-    </header>
-  </article>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-      <div class="post-meta-container">
-        <time itemprop="dateCreated"
-              datetime="2022-10-08T11:37:03+08:00"
-              content="2022-10-08">
-          10-08
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/%E9%9A%8F%E7%AC%94%E6%84%9F%E6%83%B3/other/hello-world" itemprop="url">
-            <span itemprop="name">Hello World</span>
-          </a>
-      </div>
-
-      
-    </header>
-  </article>
+</div>
 
 
-    </div>
-  </div>
-  
-  
-  
+
+
+
 
 </div>
   </main>
